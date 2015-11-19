@@ -16,7 +16,7 @@ You can install the bindings via [Composer](http://getcomposer.org/). Add this t
 ```javascript
 {
   "require": {
-    "rede/acquiring": "1.0.1"
+    "rede/acquiring": "1.0.2"
   }
 }
 ```
