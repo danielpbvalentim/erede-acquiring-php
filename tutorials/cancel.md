@@ -32,7 +32,7 @@ Se você já tem arquivo composer.json, então basta adicionar o fragmento abaix
 ```json
 {
   "require": {
-    "rede/acquiring": "1.0.1"
+    "rede/acquiring": "1.0.2"
   }
 }
 ```
